@@ -1,0 +1,5 @@
+{
+  "name": "JABATATA - Gestor de Vendas",
+  "description": "Calculadora de vendas personalizada para a JABATATA, com controle de pedidos, ticket médio e relatórios de produtos.",
+  "requestFramePermissions": []
+}
